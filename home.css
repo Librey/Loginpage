@@ -1,0 +1,16 @@
+body{
+    background-color:lightgrey;
+    background-image:url("bg-intro-desktop.png");
+}
+p{
+    font-family: 'Raleway', sans-serif; 
+    font-size: 20px;
+}
+h1{
+    color: blue;
+    letter-spacing: 2px;
+    font-family: 'Raleway', sans-serif;
+}
+.konoha{
+    text-align: center;
+}
